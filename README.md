@@ -195,8 +195,11 @@ Only load pickle/Joblib model files from trusted sources. For reproducible deplo
 ## Author
 
 **SRIPADA PAVAN KUMAR**  
-GitHub:(https://github.com/MrSripadapavan75/)
-output_link:(https://brainstroke-prediction-application.onrender.com/) <--- **Deployed it in RENDER**
+
+GitHub :https://github.com/MrSripadapavan75/
+
+output_link :https://brainstroke-prediction-application.onrender.com/ <--- Deployed it in **RENDER**
+
 ---
 
 If you use or extend this project, please retain the educational-use and medical disclaimer.
